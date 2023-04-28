@@ -3,8 +3,8 @@ n=4
 1 -2 3
 -1 2 4
 $
-*Brute Force used*
+*Greedy Hueristic used*
 Answer: 
    Number of clauses satisfied: 3
-   Number of iterations: 1
-   Values: FFFF
+   Number of iterations: 2
+   Values: TTXX

@@ -85,8 +85,7 @@ string bruteForce(const std::vector<Clause> &clause, int num_vars)
     {
         curMaxString += "F";
     }
-    cout << "GOT HERE 1" << endl;
-    cout << (int)pow(2.0, num_vars) << endl;
+
     // For all 2^num_var possible combinations of values
     for (long long i = 0; i < (long long)pow(2.0, num_vars); i++)
     {
