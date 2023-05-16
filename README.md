@@ -2,6 +2,7 @@
 
 - Name: Elijah Jedidiah Yohannan
 - Email: ejyohannan@crimson.ua.edu
+
 This README file primarily focuses on the <em>implementation</em> of the project. For an in-depth explanation of the project as a whole, it is recommended to read the PDF titled "EJY_3SAT_Paper.pdf".
 
 ## The Problem
