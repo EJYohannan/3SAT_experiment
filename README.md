@@ -2,6 +2,7 @@
 
 - Name: Elijah Jedidiah Yohannan
 - Email: ejyohannan@crimson.ua.edu
+This README file primarily focuses on the <em>implementation</em> of the project. For an in-depth explanation of the project as a whole, it is recommended to read the PDF titled "EJY_3SAT_Paper.pdf".
 
 ## The Problem
 
@@ -10,10 +11,6 @@ We are solving the 3SAT problem, which, given a set of clauses in CNF such as
     &&(-x1 || -x2 || -x4)
     &&(-x2 || -x3 || x4)
 asks whether there is some set of boolean values to assign to the variables which satisfies all clauses. In the particular solvers I wrote, the programs aimed to satisfy as many clauses as possible, regardless of whether the formula as a whole could be satisfied.
-
-For an in-depth explanation of the project as a whole, see the PDF
-titled "EJY_3SAT_Paper.pdf".
-
 
 
 ## 3SAT.cpp (general)
